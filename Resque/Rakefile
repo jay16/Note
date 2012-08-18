@@ -1,0 +1,2 @@
+require File.expand_path('../word_analysis', __FILE__)
+require "resque/tasks"

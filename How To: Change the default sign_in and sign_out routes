@@ -1,0 +1,54 @@
+When you are using only one role with Devise you may want to change the sign in and sign out routes to <b>/login</b> and <b>/logout</b> (instead of /users/sign_in and /users/sign_out).
+
+This does not work by default because Devise inspects the URL to find which scope you are accessing. So when it sees "/users/login", it knows the scope is "user", however, when you access "/login", Devise cannot know which scope it should use. Luckily, Devise provides a mechanism to specify a default scope, allowing us to have short URLs.
+
+h2. Steps for Rails 3.0.0 forward
+
+All you need to do is to specify in your routes the devise_scope being accessed in that URL:
+
+```ruby
+devise_scope :user do
+  get "/login" => "devise/sessions#new"
+end
+```
+
+Since devise_scope is aliased to as, this is equivalent:
+
+```ruby
+as :user do
+  get "/login" => "devise/sessions#new"
+end
+```
+
+Similarly for sign_out:
+
+```ruby
+devise_scope :user do
+  delete "/logout" => "devise/sessions#destroy"
+end
+```
+
+Note that you can skip all sessions routes and define only your own using the skip option as below:
+
+```ruby
+  devise_for :users, :skip => [:sessions]
+  as :user do
+    get 'signin' => 'devise/sessions#new', :as => :new_user_session
+    post 'signin' => 'devise/sessions#create', :as => :user_session
+    delete 'signout' => 'devise/sessions#destroy', :as => :destroy_user_session
+  end
+```
+
+This way :authenticate_user! and other helpers will be redirecting the user to the proper custom pages you defined.
+
+Note that if you are making use of the :sign_out_via configuration option, then the 'signout' action above may cause errors.  You can duplicate the default behavior (which changes from delete to get based on :sign_out_via) by specifying:
+
+```ruby
+  devise_for :users, :skip => [:sessions]
+  as :user do
+    get 'signin' => 'devise/sessions#new', :as => :new_user_session
+    post 'signin' => 'devise/sessions#create', :as => :user_session
+    match 'signout' => 'devise/sessions#destroy', :as => :destroy_user_session,
+      :via => Devise.mappings[:user].sign_out_via
+  end
+```

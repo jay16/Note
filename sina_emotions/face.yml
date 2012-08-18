@@ -1,0 +1,366 @@
+---
+搞怪:
+- byz2_thumb:
+    mean: ! '[白羊]'
+    name: byz2_thumb.gif
+- ssz2_thumb:
+    mean: ! '[射手]'
+    name: ssz2_thumb.gif
+- syz2_thumb:
+    mean: ! '[双鱼]'
+    name: syz2_thumb.gif
+- szz2_thumb:
+    mean: ! '[双子]'
+    name: szz2_thumb.gif
+- tpz2_thumb:
+    mean: ! '[天秤]'
+    name: tpz2_thumb.gif
+- txz2_thumb:
+    mean: ! '[天蝎]'
+    name: txz2_thumb.gif
+- spz2_thumb:
+    mean: ! '[水瓶]'
+    name: spz2_thumb.gif
+- cnz2_thumb:
+    mean: ! '[处女]'
+    name: cnz2_thumb.gif
+- jnz2_thumb:
+    mean: ! '[金牛]'
+    name: jnz2_thumb.gif
+- jxz2_thumb:
+    mean: ! '[巨蟹]'
+    name: jxz2_thumb.gif
+- leo2_thumb:
+    mean: ! '[狮子]'
+    name: leo2_thumb.gif
+- mjz2_thumb:
+    mean: ! '[摩羯]'
+    name: mjz2_thumb.gif
+- txz_thumb:
+    mean: ! '[天蝎座]'
+    name: txz_thumb.gif
+- tpz_thumb:
+    mean: ! '[天秤座]'
+    name: tpz_thumb.gif
+- szz_thumb:
+    mean: ! '[双子座]'
+    name: szz_thumb.gif
+- syz_thumb:
+    mean: ! '[双鱼座]'
+    name: syz_thumb.gif
+- ssz_thumb:
+    mean: ! '[射手座]'
+    name: ssz_thumb.gif
+- spz_thumb:
+    mean: ! '[水瓶座]'
+    name: spz_thumb.gif
+- mjz_thumb:
+    mean: ! '[摩羯座]'
+    name: mjz_thumb.gif
+- leo_thumb:
+    mean: ! '[狮子座]'
+    name: leo_thumb.gif
+- jxz_thumb:
+    mean: ! '[巨蟹座]'
+    name: jxz_thumb.gif
+- jnz_thumb:
+    mean: ! '[金牛座]'
+    name: jnz_thumb.gif
+- cnz_thumb:
+    mean: ! '[处女座]'
+    name: cnz_thumb.gif
+- byz_thumb:
+    mean: ! '[白羊座]'
+    name: byz_thumb.gif
+恐龙宝贝:
+- dinoqiuren_thumb:
+    mean: ! '[dino求人]'
+    name: dinoqiuren_thumb.gif
+- dinoleiben_thumb:
+    mean: ! '[dino泪奔]'
+    name: dinoleiben_thumb.gif
+- dinohaixiu_thumb:
+    mean: ! '[dino害羞]'
+    name: dinohaixiu_thumb.gif
+- dinodengren_thumb:
+    mean: ! '[dino等人]'
+    name: dinodengren_thumb.gif
+- dinojiong_thumb:
+    mean: ! '[dino囧]'
+    name: dinojiong_thumb.gif
+- dinokoubi_thumb:
+    mean: ! '[dino抠鼻]'
+    name: dinokoubi_thumb.gif
+- dinoxinsui_thumb:
+    mean: ! '[dino心碎]'
+    name: dinoxinsui_thumb.gif
+- dinosahua_thumb:
+    mean: ! '[dino撒花]'
+    name: dinosahua_thumb.gif
+- dinodiantong_thumb:
+    mean: ! '[dino电筒]'
+    name: dinodiantong_thumb.gif
+- dinore_thumb:
+    mean: ! '[dino热]'
+    name: dinore_thumb.gif
+- dinohuaixiao_thumb:
+    mean: ! '[dino坏笑]'
+    name: dinohuaixiao_thumb.gif
+- dinoliwu_thumb:
+    mean: ! '[dino礼物]'
+    name: dinoliwu_thumb.gif
+- dinoyundao_thumb:
+    mean: ! '[dino晕倒]'
+    name: dinoyundao_thumb.gif
+- dinoguiyi_thumb:
+    mean: ! '[dino诡异]'
+    name: dinoguiyi_thumb.gif
+- dinokeshui_thumb:
+    mean: ! '[dino瞌睡]'
+    name: dinokeshui_thumb.gif
+- dinoanwei_thumb:
+    mean: ! '[dino安慰]'
+    name: dinoanwei_thumb.gif
+- dinozaijian_thumb:
+    mean: ! '[dino再见]'
+    name: dinozaijian_thumb.gif
+- dinotiantong_thumb:
+    mean: ! '[dino甜筒]'
+    name: dinotiantong_thumb.gif
+- dinobuxie_thumb:
+    mean: ! '[dino不屑]'
+    name: dinobuxie_thumb.gif
+- dinozaoan_thumb:
+    mean: ! '[dino早安]'
+    name: dinozaoan_thumb.gif
+- dinogaoxing_thumb:
+    mean: ! '[dino高兴]'
+    name: dinogaoxing_thumb.gif
+- dinotouxiang_thumb:
+    mean: ! '[dino投降]'
+    name: dinotouxiang_thumb.gif
+- dinoguilian_thumb:
+    mean: ! '[dino鬼脸]'
+    name: dinoguilian_thumb.gif
+- dinochifan_thumb:
+    mean: ! '[dino吃饭]'
+    name: dinochifan_thumb.gif
+- dinoshiwang_thumb:
+    mean: ! '[dino失望]'
+    name: dinoshiwang_thumb.gif
+- dinoshuqian_thumb:
+    mean: ! '[dino数钱]'
+    name: dinoshuqian_thumb.gif
+- dinodani_thumb:
+    mean: ! '[dino打你]'
+    name: dinodani_thumb.gif
+- dinokuangjiao_thumb:
+    mean: ! '[dino狂叫]'
+    name: dinokuangjiao_thumb.gif
+- dinotuxue_thumb:
+    mean: ! '[dino吐血]'
+    name: dinotuxue_thumb.gif
+- dinoweiqu_thumb:
+    mean: ! '[dino委屈]'
+    name: dinoweiqu_thumb.gif
+- dinohuaquan_thumb:
+    mean: ! '[dino划圈]'
+    name: dinohuaquan_thumb.gif
+- dinofanu_thumb:
+    mean: ! '[dino发怒]'
+    name: dinofanu_thumb.gif
+- dinochijing_thumb:
+    mean: ! '[dino吃惊]'
+    name: dinochijing_thumb.gif
+- dinohejiu_thumb:
+    mean: ! '[dino喝酒]'
+    name: dinohejiu_thumb.gif
+- dinoyaoshoupa_thumb:
+    mean: ! '[dino咬手帕]'
+    name: dinoyaoshoupa_thumb.gif
+- dinochoumei_thumb:
+    mean: ! '[dino臭美]'
+    name: dinochoumei_thumb.gif
+- dinokunhuo_thumb:
+    mean: ! '[dino困惑]'
+    name: dinokunhuo_thumb.gif
+- dinoxuyuan_thumb:
+    mean: ! '[dino许愿]'
+    name: dinoxuyuan_thumb.gif
+- dinodagun_thumb:
+    mean: ! '[dino打滚]'
+    name: dinodagun_thumb.gif
+星座:
+- byz2_thumb:
+    mean: ! '[白羊]'
+    name: byz2_thumb.gif
+- ssz2_thumb:
+    mean: ! '[射手]'
+    name: ssz2_thumb.gif
+- syz2_thumb:
+    mean: ! '[双鱼]'
+    name: syz2_thumb.gif
+- szz2_thumb:
+    mean: ! '[双子]'
+    name: szz2_thumb.gif
+- tpz2_thumb:
+    mean: ! '[天秤]'
+    name: tpz2_thumb.gif
+- txz2_thumb:
+    mean: ! '[天蝎]'
+    name: txz2_thumb.gif
+- spz2_thumb:
+    mean: ! '[水瓶]'
+    name: spz2_thumb.gif
+- cnz2_thumb:
+    mean: ! '[处女]'
+    name: cnz2_thumb.gif
+- jnz2_thumb:
+    mean: ! '[金牛]'
+    name: jnz2_thumb.gif
+- jxz2_thumb:
+    mean: ! '[巨蟹]'
+    name: jxz2_thumb.gif
+- leo2_thumb:
+    mean: ! '[狮子]'
+    name: leo2_thumb.gif
+- mjz2_thumb:
+    mean: ! '[摩羯]'
+    name: mjz2_thumb.gif
+- txz_thumb:
+    mean: ! '[天蝎座]'
+    name: txz_thumb.gif
+- tpz_thumb:
+    mean: ! '[天秤座]'
+    name: tpz_thumb.gif
+- szz_thumb:
+    mean: ! '[双子座]'
+    name: szz_thumb.gif
+- syz_thumb:
+    mean: ! '[双鱼座]'
+    name: syz_thumb.gif
+- ssz_thumb:
+    mean: ! '[射手座]'
+    name: ssz_thumb.gif
+- spz_thumb:
+    mean: ! '[水瓶座]'
+    name: spz_thumb.gif
+- mjz_thumb:
+    mean: ! '[摩羯座]'
+    name: mjz_thumb.gif
+- leo_thumb:
+    mean: ! '[狮子座]'
+    name: leo_thumb.gif
+- jxz_thumb:
+    mean: ! '[巨蟹座]'
+    name: jxz_thumb.gif
+- jnz_thumb:
+    mean: ! '[金牛座]'
+    name: jnz_thumb.gif
+- cnz_thumb:
+    mean: ! '[处女座]'
+    name: cnz_thumb.gif
+- byz_thumb:
+    mean: ! '[白羊座]'
+    name: byz_thumb.gif
+哈皮兔:
+- touch_thumb:
+    mean: ! '[抚摸]'
+    name: touch_thumb.gif
+- sweat_thumb:
+    mean: ! '[大汗]'
+    name: sweat_thumb.gif
+- suprise_thumb:
+    mean: ! '[大惊]'
+    name: suprise_thumb.gif
+- supcry_thumb:
+    mean: ! '[惊哭]'
+    name: supcry_thumb.gif
+- stareyes_thumb:
+    mean: ! '[星星眼]'
+    name: stareyes_thumb.gif
+- sleepy_thumb:
+    mean: ! '[好困]'
+    name: sleepy_thumb.gif
+- sick_thumb:
+    mean: ! '[呕吐]'
+    name: sick_thumb.gif
+- plus1_thumb:
+    mean: ! '[加我一个]'
+    name: plus1_thumb.gif
+- pipioye_thumb:
+    mean: ! '[痞痞兔耶]'
+    name: pipioye_thumb.gif
+- muamua_thumb:
+    mean: ! '[mua]'
+    name: muamua_thumb.gif
+- mianchou_thumb:
+    mean: ! '[面抽]'
+    name: mianchou_thumb.gif
+- laugh_thumb:
+    mean: ! '[大笑]'
+    name: laugh_thumb.gif
+- knead_thumb:
+    mean: ! '[揉]'
+    name: knead_thumb.gif
+- jiong_thumb:
+    mean: ! '[痞痞兔囧]'
+    name: jiong_thumb.gif
+- honeyoye_thumb:
+    mean: ! '[哈尼兔耶]'
+    name: honeyoye_thumb.gif
+- happy_thumb:
+    mean: ! '[开心]'
+    name: happy_thumb.gif
+- handkerchief_thumb:
+    mean: ! '[咬手帕]'
+    name: handkerchief_thumb.gif
+- go_thumb:
+    mean: ! '[去]'
+    name: go_thumb.gif
+- dizzy_thumb:
+    mean: ! '[晕死了]'
+    name: dizzy_thumb.gif
+- cry_thumb:
+    mean: ! '[大哭]'
+    name: cry_thumb.gif
+- coverface_thumb:
+    mean: ! '[扇子遮面]'
+    name: coverface_thumb.gif
+- angery_thumb:
+    mean: ! '[怒气]'
+    name: angery_thumb.gif
+- 886_thumb:
+    mean: ! '[886]'
+    name: 886_thumb.gif
+大耳兔:
+- weisuo_thumb:
+    mean: ! '[猥琐]'
+    name: weisuo_thumb.gif
+- tiaomei_thumb:
+    mean: ! '[挑眉]'
+    name: tiaomei_thumb.gif
+- tiaodou_thumb:
+    mean: ! '[挑逗]'
+    name: tiaodou_thumb.gif
+- qinerduo_thumb:
+    mean: ! '[亲耳朵]'
+    name: qinerduo_thumb.gif
+- meiyan_thumb:
+    mean: ! '[媚眼]'
+    name: meiyan_thumb.gif
+- maogepao_thumb:
+    mean: ! '[冒个泡]'
+    name: maogepao_thumb.gif
+- jiongerduo_thumb:
+    mean: ! '[囧耳朵]'
+    name: jiongerduo_thumb.gif
+- guilian_thumb:
+    mean: ! '[鬼脸]'
+    name: guilian_thumb.gif
+- fangdian_thumb:
+    mean: ! '[放电]'
+    name: fangdian_thumb.gif
+- beiju_thumb:
+    mean: ! '[悲剧]'
+    name: beiju_thumb.gif

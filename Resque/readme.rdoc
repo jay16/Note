@@ -1,0 +1,14 @@
+#启动ｒｅｄｉｓ(必须的)
+redis-server
+
+#启动ｒｅｓｑｕｅ
+rake resque:work QUEUE=*
+#不启动它，不影响ｒｅｓｑｕｅ.ｒｂ中的程序运行，但ｗｏｒｋ不运行
+
+#运行主程序
+ruby resque.rb I Just test the usage of Resque
+
+
+参考学习：
+http://rubylearning.com/blog/2010/11/08/do-you-know-resque/
+

@@ -1,0 +1,28 @@
+Ruby and Metaprogramming Ruby Learning!
+
+Cucumber
+  cucumber features/codebreaker_start_game.feature
+  cucumber features/codebreaker_submits_guess.feature
+RSpec
+  rspec spec/codebreaker/game_spec.rb --format doc
+  rspec spec/codebreaker/game_spec.rb --color --format doc
+  rspec spec/codebreaker/marker_spec.rb --format nested
+  rspec spec --backtrace
+bin
+  chmod +x bin/codebreaker
+  bin/codebreaker
+
+
+
+参考学习：
+  meta ruby
+  http://deathking.is-programmer.com/posts/29100.html
+  dynamic ruby
+    http://www.iteye.com/topic/375531
+  WEBrick
+    http://my4java.itpub.net/post/9983/66758
+  globalvar
+    http://www.cnblogs.com/lwm-1988/archive/2012/04/19/2456932.html
+  bundle rake 
+    http://lanvige.iteye.com/blog/804477
+    # Start multiple Resque workers.
